@@ -71,14 +71,14 @@ Git | GitHub | Postman | Render
 
 ## 📈 GitHub Stats
 
-![Sujay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujaySen\&show_icons=true\&theme=tokyonight)
+![Sujay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujay543\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (Add your link)
-* 📧 Email: (Add your email)
+* 💼 LinkedIn: https://www.linkedin.com/in/sujay-sen-58775725a
+* 📧 Email: sensujay604@gmail.com
 
 ---
 
