@@ -71,7 +71,7 @@ Git | GitHub | Postman | Render
 
 ## 📈 GitHub Stats
 
-![Sujay's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sujay543)
+![Sujay's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sujay543&show_icons=true&theme=tokyonight)
 
 ---
 
