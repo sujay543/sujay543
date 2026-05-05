@@ -23,7 +23,7 @@ Java | JavaScript | C
 Node.js | Express.js
 
 **Database:**
-MySQL
+MySQL | MongoDb
 
 **Tools & Platforms:**
 Git | GitHub | Postman | Render
